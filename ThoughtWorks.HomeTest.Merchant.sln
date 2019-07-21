@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtWorks.HomeTest.Merchant", "ThoughtWorks.HomeTest.Merchant\ThoughtWorks.HomeTest.Merchant.csproj", "{F89F3977-7D25-4052-8EC9-3652BCB8BE25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThoughtWorks.HomeTest.Merchant", "ThoughtWorks.HomeTest.Merchant\ThoughtWorks.HomeTest.Merchant.csproj", "{F89F3977-7D25-4052-8EC9-3652BCB8BE25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtWorks.HomeTest.MerchantTest", "ThoughtWorks.HomeTest.MerchantTest\ThoughtWorks.HomeTest.MerchantTest.csproj", "{4D206C89-D331-4BCE-9ABC-F4E2B0EAF7C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F89F3977-7D25-4052-8EC9-3652BCB8BE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F89F3977-7D25-4052-8EC9-3652BCB8BE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F89F3977-7D25-4052-8EC9-3652BCB8BE25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D206C89-D331-4BCE-9ABC-F4E2B0EAF7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D206C89-D331-4BCE-9ABC-F4E2B0EAF7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D206C89-D331-4BCE-9ABC-F4E2B0EAF7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D206C89-D331-4BCE-9ABC-F4E2B0EAF7C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
